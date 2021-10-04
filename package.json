@@ -1,0 +1,17 @@
+{
+  "name": "api_resume",
+  "version": "1.0.0",
+  "description": "Zipcode API Prototype for job application",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index"
+  },
+  "author": "Vladimir Malcevic",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
